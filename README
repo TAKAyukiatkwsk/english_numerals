@@ -1,0 +1,7 @@
+Print numerals (0 to 9999) in English.
+
+ruby run_numerals.rb <num>
+
+e.g.
+$ ruby run_numerals.rb 10
+ten
