@@ -1,5 +1,5 @@
 $:.unshift File.dirname(__FILE__)
-require 'num2eng'
+require 'lib/num2eng'
 
 input_num = ARGV[0]
 n2e = Num2Eng.new
